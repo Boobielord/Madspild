@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event</title>
+    <link rel="stylesheet" href="../Static/about.css">
+</head>
+<body>
+<header>
+    <h1>Kommende Events</h1>
+</header>
+<main>
+    <section>
+        <h2>tilmed dig et event</h2>
+        <form>
+            <label for="name">Navn:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="event">choose event</label>
+            <select id="event" name="event">
+                <option value="workshop">Madspild workshop</option>
+                <option value="donation">Fødevaresamling</option>
+            </select>
+
+            <button type="submit">tilmeld</button>
+        </form>
+        <p th:if="${message}" th:text="${message}"></p>
+    </section>
+</main>
+
+</body>
+</html>
