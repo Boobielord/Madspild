@@ -1,4 +1,4 @@
-/*package org.example.projektmadspild.Model;
+package com.example.madspild.Model;
 
 public class Tips
 {
@@ -38,4 +38,3 @@ public class Tips
 
 
 }
-*/

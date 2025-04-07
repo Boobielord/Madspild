@@ -1,5 +1,5 @@
 /*
-package org.example.projektmadspild.Service;
+package com.example.madspild.Service;
 
 
 import org.example.projektmadspild.Model.Tips;

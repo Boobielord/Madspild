@@ -1,4 +1,4 @@
-package org.example.projektmadspild.Controller;
+package com.example.madspild.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
