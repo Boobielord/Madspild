@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6393dda-be5b-4174-95d7-e93c70349a7b" name="Changes" comment="" />
+    <list default="true" id="e6393dda-be5b-4174-95d7-e93c70349a7b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madspild/src/main/resources/Static/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Static/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madspild/src/main/resources/Template/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Template/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Madspild/src/main/resources/Template/event.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Template/event.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,9 +54,9 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -92,7 +97,8 @@
       <workItem from="1743863872744" duration="7000" />
       <workItem from="1744007783311" duration="1713000" />
       <workItem from="1744009512508" duration="51000" />
-      <workItem from="1744009570233" duration="4198000" />
+      <workItem from="1744009570233" duration="6806000" />
+      <workItem from="1744018836130" duration="658000" />
     </task>
     <servers />
   </component>
