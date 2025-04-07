@@ -1,24 +1,33 @@
+/* Generel stil */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    /*background-color: rgb(51, 62, 128);*/
+    background-color: #f4f4f4;
+    color: #333;
     text-align: center;
 }
 
 
+
+/* Header */
 header {
     background-color: #7af35f;
     color: white;
     text-align: center;
-    padding: 10px 0;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 30px;
+    margin: 0;
 }
 
 
 /* Navigation Bar */
 .navbar {
     background-color: #333;
-    padding: 10px 0px;
+    padding: 10px 0;
     display: flex;                      /* flexbox - alt indeni navbar (ul liste af links både med nav left og right) lægges på 1 linje*/
     justify-content: space-between;     /* fordeling af plads mellem elementerne*/
     align-items: center;
@@ -48,16 +57,27 @@ nav ul li a:hover {
 }
 
 
-
-main {
-    max-width: 800px;
-    margin: auto;
-    background: rgb(36,44,84);
-    padding: 10px 0;
-    color: white;
+.container {
+    max-width: 1000px;
+    padding: 30px;
+    margin: 40px auto;                  /* Centrerer tekst boks indholdet på siden */
+    background-color: #ffffff;
+    border-radius: 15px;
 }
 
 
+/* Footer */
+.foot {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+    font-size: 18px;
+}
+
+
+
+/*
 form {
     display: flex;
     flex-direction: column;
@@ -67,17 +87,4 @@ form {
 label, input, select, button {
     margin-bottom: 10px;
 }
-
-
-.container {
-    /*margin: 50px;*/
-    background: white;
-    padding: 20px;
-    /*border-radius: 10px;*/
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-}
-
-
-h1 {
-    color: white;
-}
+*/
