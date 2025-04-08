@@ -100,3 +100,7 @@ nav ul li a:hover {
     color: white;
     font-size: 18px;
 }
+
+a {
+    color: dodgerblue;
+}
