@@ -4,34 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6393dda-be5b-4174-95d7-e93c70349a7b" name="Changes" comment="dd">
-      <change afterPath="$PROJECT_DIR$/Madspild/src/main/java/com/example/madspild/Model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Static/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/src/main/java/com/example/madspild/Controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/java/com/example/madspild/Controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/src/main/resources/Static/FaktaStylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Static/FaktaStylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/src/main/resources/Static/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Static/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/src/main/resources/Template/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Template/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/src/main/resources/Template/fakta.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Template/fakta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/src/main/resources/Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Template/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/src/main/resources/Template/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Template/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/src/main/resources/Template/tips.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/src/main/resources/Template/tips.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/target/classes/Static/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/target/classes/Static/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/target/classes/Template/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/target/classes/Template/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Madspild/target/classes/Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Madspild/target/classes/Template/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e6393dda-be5b-4174-95d7-e93c70349a7b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="CSS File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,12 +19,12 @@
     &quot;assignee&quot;: &quot;supcharls&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Boobielord/Madspild.git",
-    "accountId": "dac64bc5-d9d3-48d5-a577-501c9474b74b"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Boobielord/Madspild.git&quot;,
+    &quot;accountId&quot;: &quot;7d4e54ca-bfd7-449d-bb9e-0f17ce27381a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -57,48 +34,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.about.html.executor": "Run",
-    "JavaScript Debug.event.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.MadspildApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/charl/Documents/GitHub/Madspild",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.scopes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.about.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.event.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/charl/Documents/GitHub/Madspild&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="MadspildApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="Madspild" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.madspild.MadspildApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Madspild" />
+      <option name="filePath" />
+      <method v="2" />
     </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
       </set>
     </attachedChunks>
   </component>
@@ -119,8 +93,6 @@
       <workItem from="1744007783311" duration="1713000" />
       <workItem from="1744009512508" duration="51000" />
       <workItem from="1744009570233" duration="4198000" />
-      <workItem from="1744108977836" duration="13000" />
-      <workItem from="1744109992313" duration="3724000" />
     </task>
     <servers />
   </component>
@@ -137,9 +109,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="dd" />
-    <option name="LAST_COMMIT_MESSAGE" value="dd" />
   </component>
 </project>
